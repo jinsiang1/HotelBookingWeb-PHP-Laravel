@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- @author Lee Kong Hang -->
+<rooms>
+    <room id="1">single</room>
+    <room id="2">deluxe</room>
+    <room id="3">family</room>
+</rooms>
